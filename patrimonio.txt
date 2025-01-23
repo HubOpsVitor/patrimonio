@@ -1,0 +1,9 @@
+ID: 
+Número de Série: 
+Nome do Patrimônio: 
+Tipo: 
+Descrição: 
+Localização: 
+Data de Fabricação: 
+Data de Aquisição: 
+------------------------------------------
